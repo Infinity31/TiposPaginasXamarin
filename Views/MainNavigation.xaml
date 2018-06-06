@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TiposPaginasXamarin.Views.MainNavigation">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Página principal de la aplicación"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center" />
+            <Image Source="http://www.mundo-animal.com/blog/wp-content/uploads/2014/10/cachorros-de-gato-poco-afectuosos.jpg"
+                   WidthRequest="200" HeightRequest="200"/>
+            <Button Text="Content" x:Name="btncontent"
+                    VerticalOptions="Start"
+                    HorizontalOptions="CenterAndExpand"/>
+            <Button Text="Tabbed" x:Name="btntabbed"
+                    VerticalOptions="Start"
+                    HorizontalOptions="CenterAndExpand"/>
+            <Button Text="Carousel" x:Name="btncarousel"
+                    VerticalOptions="Start"
+                    HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

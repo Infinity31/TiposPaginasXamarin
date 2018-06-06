@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TiposPaginasXamarin.Views.PaginaUno">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="PAGINA UNO"
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center" />
+            <Image Source="https://st-listas.20minutos.es/images/2012-04/328877/3505784_640px.jpg?1335695070"
+                   WidthRequest="200" HeightRequest="200"/>
+            <Button Text="Siguiente página" x:Name="btndos"
+                    VerticalOptions="Start"
+                    HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

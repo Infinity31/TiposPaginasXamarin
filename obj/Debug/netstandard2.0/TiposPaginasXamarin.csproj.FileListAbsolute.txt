@@ -1,0 +1,16 @@
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.csproj.CoreCompileInputs.cache
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.App.xaml.g.cs
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.MainPage.xaml.g.cs
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.Views.Carousel.xaml.g.cs
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.Views.Content.xaml.g.cs
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.Views.MainNavigation.xaml.g.cs
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.Views.PaginaDos.xaml.g.cs
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.Views.PaginaUno.xaml.g.cs
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.AssemblyInfoInputs.cache
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.AssemblyInfo.cs
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.dll
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.pdb
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\bin\Debug\netstandard2.0\TiposPaginasXamarin.deps.json
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\bin\Debug\netstandard2.0\TiposPaginasXamarin.dll
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\bin\Debug\netstandard2.0\TiposPaginasXamarin.pdb
+C:\XAMARIN\TiposPaginasXamarin\TiposPaginasXamarin\TiposPaginasXamarin\obj\Debug\netstandard2.0\TiposPaginasXamarin.Views.Tabbed.xaml.g.cs

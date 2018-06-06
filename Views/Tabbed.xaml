@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TiposPaginasXamarin.Views.Tabbed">
+    <ContentPage Title="Página Gato">
+        <StackLayout>
+            <Image Source="http://www.mundo-animal.com/blog/wp-content/uploads/2014/10/cachorros-de-gato-poco-afectuosos.jpg"
+                   WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Página Perro">
+        <StackLayout>
+            <Image Source="https://st-listas.20minutos.es/images/2012-04/328877/3505784_640px.jpg?1335695070"
+                   WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Página Tigre">
+        <StackLayout>
+            <Image Source="https://cdn.20m.es/img/2006/09/27/514004.jpg"
+                   WidthRequest="200" HeightRequest="200"/>
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>
